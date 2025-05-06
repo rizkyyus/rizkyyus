@@ -6,9 +6,7 @@
 <!-- Introduction & Views -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=4F94EF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+%7C+Problem+Solver;Full+Stack+Developer;Machine+Learning+Explorer" alt="Typing SVG" width="100%" />
-  
   <img src="https://komarev.com/ghpvc/?username=rizkyyusmansyah&style=for-the-badge&color=161b22&labelColor=0D1117" alt="Profile Views"/>
-
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rizkyyusmansyah&theme=onestar&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
   </a>
@@ -16,7 +14,10 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aGN5MHRjeHZ5ZnJlbzUwd3kyem5ramx3NjR0ZDdkdGxlcWZmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cyZhdD1zdGlja2VyX2FuaW1hdGVkX2RhdGEvc21pbGUvNDk4NTM5NQ/5uT7iMoiZBimzayhRq/giphy.gif" width="25px"> <b>About Me</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl3aGN5MHRjeHZ5ZnJlbzUwd3kyem5ramx3NjR0ZDdkdGxlcWZmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cyZhdD1zdGlja2VyX2FuaW1hdGVkX2RhdGEvc21pbGUvNDk4NTM5NQ/5uT7iMoiZBimzayhRq/giphy.gif" width="25px" height="25px"> 
+    <b>About Me</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -54,7 +55,10 @@
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="25px"> <b>Tech Stack</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="25px" height="25px">
+    <b>Tech Stack</b>
+  </h2>
 </div>
 
 <table align="center">
@@ -111,7 +115,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 <div align="center">
@@ -129,7 +132,10 @@
 
 <!-- Featured Projects Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/iIMphyuGPHxBL44CpE/giphy.gif" width="25px"> <b>Featured Projects</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/iIMphyuGPHxBL44CpE/giphy.gif" width="25px" height="25px">
+    <b>Featured Projects</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -149,7 +155,10 @@
 
 <!-- Stats & Streak Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFtcTZjOG1rbjY0eGUxMG5yeTR2enRrbXRvbzgxNWdldXp3ZzBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="25px"> <b>GitHub Stats</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFtcTZjOG1rbjY0eGUxMG5yeTR2enRrbXRvbzgxNWdldXp3ZzBuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="25px" height="25px">
+    <b>GitHub Stats</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -159,12 +168,14 @@
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyusmansyah&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyyusmansyah&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=F8D866&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- Current Focus Section -->
+<!-- Current Focus Section with proper Mermaid syntax -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlndDB2OWFsb3ptZDl5Zm0zcTcwYjU3dng3YmlnZTE0MTltZWZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlOso5qTFCC4IVgFQG/giphy.gif" width="25px"> <b>Current Focus</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlndDB2OWFsb3ptZDl5Zm0zcTcwYjU3dng3YmlnZTE0MTltZWZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlOso5qTFCC4IVgFQG/giphy.gif" width="25px" height="25px">
+    <b>Current Focus</b>
+  </h2>
 </div>
 
 ```mermaid
@@ -186,7 +197,10 @@ mindmap
 
 <!-- Achievements Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgwc243aW90YTF4bTVnMml0ZmZzZ29nZjJ2YXV3cmx4dDg0eW5yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uZizbjLNg9haQ/giphy.gif" width="25px"> <b>Achievements</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgwc243aW90YTF4bTVnMml0ZmZzZ29nZjJ2YXV3cmx4dDg0eW5yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uZizbjLNg9haQ/giphy.gif" width="25px" height="25px">
+    <b>Achievements</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -214,7 +228,10 @@ mindmap
 
 <!-- Coding Activity Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> <b>Coding Activity</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" height="25px">
+    <b>Coding Activity</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -223,7 +240,10 @@ mindmap
 
 <!-- Quote Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84ZzdkMTR2N3docTN0dnNlY3lrajI0MG1tNjg2cmlnYTJwc3I3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmqitTYGsNMiWu3VWV/giphy.gif" width="25px"> <b>Favorite Quote</b></h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84ZzdkMTR2N3docTN0dnNlY3lrajI0MG1tNjg2cmlnYTJwc3I3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmqitTYGsNMiWu3VWV/giphy.gif" width="25px" height="25px">
+    <b>Favorite Quote</b>
+  </h2>
 </div>
 
 <div align="center">
@@ -235,7 +255,11 @@ mindmap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2D3047&height=100&section=footer&fontSize=90" width="100%"/>
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Updated path -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rizkyyusmansyah/rizkyyusmansyah/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rizkyyusmansyah/rizkyyusmansyah/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rizkyyusmansyah/rizkyyusmansyah/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/rizkyyusmansyah/rizkyyusmansyah/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
